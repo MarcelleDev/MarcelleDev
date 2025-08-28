@@ -2,9 +2,7 @@
   
 
 www.linkedin.com/in/marcelle-dennaro
-
-
-https://www.instagram.com/dev_dennaro/
+www.instagram.com/aprima.dev/
 
 ## Meu nome é Marcelle
 
