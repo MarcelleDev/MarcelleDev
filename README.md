@@ -56,4 +56,4 @@
 ---
 
 
-⭐ **"Automatizar infraestruturas e arquitetar dados é construir a espinha dorsal da tecnologia."** ⭐
+🌉 "Onde a infraestrutura encontra os dados: aí mora a escalabilidade inteligente."
