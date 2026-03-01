@@ -1,4 +1,4 @@
-# Olá, eu sou Marcelle Dennaro!
+# Olá, eu sou Marcelle!
 
 ### ⚙️ DevOps & Arquitetura de Dados
 ---
