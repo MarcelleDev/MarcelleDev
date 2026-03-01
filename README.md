@@ -4,7 +4,6 @@
 www.linkedin.com/in/marcelle-dennaro
 
 
-www.instagram.com/aprima.dev/
 
 ## Meu nome é Marcelle
 
